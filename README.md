@@ -1,1 +1,1 @@
-# 09062025
+1.ContextAPI_Task, This project demonstrate one of the the performance optimization technique of React Projects by avoiding of prop drilling, In other words we can pass data to the any component instead of passing every level of the ancestor components.
